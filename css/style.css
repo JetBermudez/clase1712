@@ -1,0 +1,18 @@
+#seccion1{
+    border: 2px outset #1C6EA4;
+}
+
+.secciones{
+    background-color: yellowgreen;
+
+}
+
+main div{
+margin: 20px;
+padding: 10px;
+border: 2px dotted red;
+}
+
+.navbar-nav{
+    background-color: yellow;
+}
